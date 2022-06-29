@@ -95,7 +95,7 @@ String[] { "test", " foo" }
 ```
 ergibt
 ```
-"foo"
+"fooo"
 ```
 
 ### LoalDateTime#parse(CharSequence)
